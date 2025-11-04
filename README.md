@@ -17,6 +17,8 @@ Por fim, o áudio foi integrado a imagens e cenas geradas com o descript.com, qu
 ## 🚀 Resultados
 O vídeo final apresenta uma explicação clara e envolvente sobre como as IAs generativas surgiram, evoluíram e estão impactando diversas áreas profissionais no mundo todo. A combinação entre narração gerada por IA, imagens dinâmicas e um roteiro objetivo torna o resultado visualmente atraente e fácil de compreender, servindo como uma demonstração prática do poder das tecnologias de IA aplicadas à criação de conteúdo.
 
+[![Assista ao vídeo](https://img.shields.io/badge/🎬%20Assistir%20ao%20Vídeo-blue?style=for-the-badge)](https://youtu.be/DPQ0gWBuN6k)
+
 ## 💭 Reflexão (Opcional)
 Este projeto me fez perceber o quanto as inteligências artificiais não são apenas ferramentas, mas verdadeiras extensões da criatividade humana.
 A capacidade de transformar ideias em produções completas — apenas com o uso de texto e algumas plataformas online — mostra que estamos vivendo uma das maiores revoluções tecnológicas da história.
